@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on someone who is also interested with the new technology.
 - 📫 How to reach me? Just dm me on discord synepis_9
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am actually a human being wandering in the world of tech.
+- ⚡ Fun fact: I am actually a human being wandering in my own world.
 
 <!---
 kallie41023/kallie41023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
