@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @kallie41023
-- 👀 I’m interested in learning more about the future technology.
-- 🌱 I’m currently learning Java and PHP.
-- 💞️ I’m looking to collaborate on someone who is also interested with the new technology.
-- 📫 How to reach me? Just dm me on discord synepis_9
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am actually a human being wandering in my own world.
+# Hi there, I'm Synepis 👋
 
-<!---
-kallie41023/kallie41023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 **Student | Tech Explorer | Lifelong Learner**
+
+---
+
+**About Me**
+
+- 🧑‍💻 I’m a student currently learning and exploring the world of technology.
+- 💻 Comfortable with basic HTML, CSS, and JavaScript.
+- ☕ Intermediate skills in Java and PHP.
+- 🌍 Just living this what they called life.
+
+---
+
+**Let’s Connect!**
+
+- 🤝 Open for collaborations, pair programming, or just a friendly chat about code and tech!
+- 🚀 Eager to learn from other passionate tech folks.
+
+---
+
+**Fun Fact**
+
+> “Living this what they called life.” — Let’s make it an adventure, one code at a time!
+
+---
+
+Thanks for visiting my profile! 😊
