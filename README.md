@@ -1,4 +1,4 @@
-# Hi there, I'm Synepis 👋
+# Hi there, I'm Lain 👋
 
 🌱 **Student | Tech Explorer | Lifelong Learner**
 
